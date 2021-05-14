@@ -1,4 +1,4 @@
-### Namaskara 🙏 I am Pranav N
+### ನಮಸ್ಕಾರ 🙏 I am Pranav N
 
 
 
