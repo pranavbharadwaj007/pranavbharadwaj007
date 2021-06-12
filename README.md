@@ -8,7 +8,7 @@
 
  ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavbharadwaj007&show_icons=true&theme=calm)
  
-- 🔭 I’m currently working on: Front End dev
+- 🔭 I’m currently working on: MERN stack dev
 - 🌱 I’m currently learning: Full Stack dev
 - 👯 I’m looking to collaborate on: Open source and hackothon projects 🤝
 - 💬 Let's talk about: Science🔭 Programming📚 Tech💻
