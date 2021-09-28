@@ -24,7 +24,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
  <img style="margin: 10px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="Tailwind" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
- <img style="margin: 10px" src="https://material-ui.com/static/logo.png" alt="Material UI" height="50" /> 
+ <img style="margin: 10px" src="https://www.pngitem.com/pimgs/m/577-5779757_react-material-ui-logo-hd-png-download.png" alt="Material UI" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
