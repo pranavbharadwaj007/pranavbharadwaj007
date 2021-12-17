@@ -9,9 +9,9 @@
  ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavbharadwaj007&show_icons=true&theme=calm)
  
 - 🔭 I’m currently working on: MERN stack dev
-- 🌱 I’m currently learning: Full Stack dev
+- 🌱 I’m currently learning: WEB 3.0 
 - 👯 I’m looking to collaborate on: Open source and hackothon projects 🤝
-- 💬 Let's talk about: Science🔭 Programming📚 Tech💻
+- 💬 Let's talk about: NFT🔭 Blockchain📚 Tech💻
 - 📫 How to reach me: [Click here](https://www.linkedin.com/in/pranavbharadwaj007/)
 - ⚡ Fun fact: Google it 👀
 - 💡 Have a glimpse of what I do: [Click here](https://www.youtube.com/channel/UCvKTtKqzxkenjvsjpu7cgKg)
