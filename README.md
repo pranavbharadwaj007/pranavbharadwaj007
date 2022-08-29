@@ -7,7 +7,7 @@
 <img src=".\asset\Live-Motion-Background.svg" alt="stacks" width = "100%"/>
 </h3>
 
- ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavbharadwaj007&show_icons=true&theme=calm)
+ 
  
 - 🔭 I’m currently working on: MERN stack dev
 - 🌱 I’m currently learning: WEB 3.0 
@@ -69,4 +69,4 @@
 <br/>  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbharadwaj007&layout=compact&theme=calm)](https://github.com/pranavbharadwaj007)
+
