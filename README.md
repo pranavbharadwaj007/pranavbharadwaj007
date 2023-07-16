@@ -10,9 +10,9 @@
  
  
 - 🔭 I’m currently working on: MERN stack dev
-- 🌱 I’m currently learning: WEB 3.0 
+- 🌱 I’m currently learning: Golang
 - 👯 I’m looking to collaborate on: Open source and hackothon projects 🤝
-- 💬 Let's talk about: NFT🔭 Blockchain📚 Tech💻
+- 💬 Let's talk about: System Design🔭 Blockchain📚 Tech💻
 - 📫 How to reach me: [Click here](https://www.linkedin.com/in/pranavbharadwaj007/)
 - ⚡ Fun fact: Google it 👀
 - 💡 Have a glimpse of what I do: [Click here](https://www.youtube.com/channel/UCvKTtKqzxkenjvsjpu7cgKg)
