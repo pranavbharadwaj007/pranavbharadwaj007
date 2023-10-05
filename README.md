@@ -2,11 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavbharadwaj007/)&nbsp;
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PranaV79977)&nbsp;
 [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCvKTtKqzxkenjvsjpu7cgKg)&nbsp;
-
-<h3 >
-<img src=".\asset\Live-Motion-Background.svg" alt="stacks" width = "100%"/>
-</h3>
-
+[![An image of @pranav77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranav77)](https://holopin.io/@pranav77)
  
  
 - 🔭 I’m currently working on: MERN stack dev
